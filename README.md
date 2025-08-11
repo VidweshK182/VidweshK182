@@ -43,7 +43,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VidweshK182&show_icons=true&locale=en" alt="VidweshK182" /></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VidweshK182&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
