@@ -8,7 +8,7 @@
 <h3 align="left">Reach me at:</h3> 
 <p align="left">
   <!-- Gmail -->
-  <a href="mailto:vidweshkadarla182@gmail.com" target="blank" style="text-decoration: none;">
+  <a href="mailto:vidweshkadarla@gmail.com" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="email" height="30" width="40" />
     <span style="vertical-align: middle; font-size: 16px; color: black;">vidweshkadarla182@gmail.com</span>
   </a>
